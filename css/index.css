@@ -247,7 +247,7 @@ html,body{width:100%;}
 .ftlist ul li:nth-child(2) i{background-image: url('../img/footicon2.png')}
 .ftlist ul li:nth-child(3) i{background-image: url('../img/footicon3.png')}
 .ftlist ul li:last-child i{background-image: url('../img/footicon4.png')}
-.ftlist ul li p{text-align: center; font-size:16px; color:#c52d29; width:100%; margin-top:20px;  text-overflow: ellipsis; white-space: nowrap; overflow: hidden;}
+.ftlist ul li p{text-align: center; font-size:16px; color:#c52d29; width:100%; margin-top:20px;  white-space: nowrap;  text-overflow: ellipsis; overflow: hidden;}
 /*底部列表栏end*/
 /*底部栏strat*/
 .footer{width:1200px; margin:40px auto;}
@@ -521,7 +521,7 @@ html,body{width:100%;}
     .ftyx{padding-top:20px;}
     .ftyx h2{font-size:20px; margin-bottom:10px;}
     .ftyx_content .ftyx_c_l .ftyx_c_l_h p:first-child a{font-size:16px;}
-    .ftlist ul li p{font-size:10px;}
+    .ftlist ul li p{font-size:10px; line-height:15px;}
     .ftlist{margin:45px auto;}
     .footer_l ul li h4{font-size:16px;}
     .listcen ul li a .font h3{font-size:30px;}
