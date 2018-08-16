@@ -247,7 +247,7 @@ html,body{width:100%;}
 .ftlist ul li:nth-child(2) i{background-image: url('../img/footicon2.png')}
 .ftlist ul li:nth-child(3) i{background-image: url('../img/footicon3.png')}
 .ftlist ul li:last-child i{background-image: url('../img/footicon4.png')}
-.ftlist ul li p{text-align: center; font-size:16px; color:#c52d29; width:99%; margin-top:20px; margin-left:1%; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;}
+.ftlist ul li p{text-align: center; font-size:16px; color:#c52d29; width:100%; margin-top:20px;  text-overflow: ellipsis; white-space: nowrap; overflow: hidden;}
 /*底部列表栏end*/
 /*底部栏strat*/
 .footer{width:1200px; margin:40px auto;}
